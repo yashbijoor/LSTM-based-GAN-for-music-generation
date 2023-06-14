@@ -16,8 +16,8 @@ Musical Instrument Digital Interface (MIDI) message data is obtained and process
 ![training_sample-3](https://github.com/yashbijoor/LSTM-based-GAN-for-music-generation/assets/80248111/669eea38-da8c-4538-a427-9c0e865eb7ad)
 
 ## Generated music
-https://github.com/yashbijoor/LSTM-based-GAN-for-music-generation/assets/80248111/fe4fd718-337c-46c4-a226-a0b47aab8cfb
 ![generated_sample](https://github.com/yashbijoor/LSTM-based-GAN-for-music-generation/assets/80248111/c2420092-0ae4-4d39-b611-51a71abc51af)
+https://github.com/yashbijoor/LSTM-based-GAN-for-music-generation/assets/80248111/fe4fd718-337c-46c4-a226-a0b47aab8cfb
 
 
 
