@@ -1,0 +1,6 @@
+mido==1.2.9
+tensorflow==1.14.0
+Keras
+sklearn
+numpy
+pandas
